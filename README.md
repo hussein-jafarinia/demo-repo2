@@ -1,7 +1,17 @@
 # Demo 2
 # transforming a normal directory to a git repo
 
-some text
+## Subheader
+
+Watch tutorial on Youtube.
+
+## Local Development
+
+1. open index.html in your browser.
+
+Some changes specific the feature 
+
+some text specific to feature-readme-instructions branch
 
 to transform it to a github repo: in vscode terminal -> git init
 to add README.md to the repo: git add README.md
