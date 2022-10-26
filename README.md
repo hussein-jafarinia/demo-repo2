@@ -1,6 +1,14 @@
 # Demo 2
 # transforming a normal directory to a git repo
 
+## Subheader
+
+Watch tutorial on Youtube.
+
+## Local Development
+
+1. open index.html in your browser.
+
 some text
 
 to transform it to a github repo: in vscode terminal -> git init
