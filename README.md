@@ -9,7 +9,9 @@ Watch tutorial on Youtube.
 
 1. open index.html in your browser.
 
-some text
+Some changes specific the feature 
+
+some text specific to feature-readme-instructions branch
 
 to transform it to a github repo: in vscode terminal -> git init
 to add README.md to the repo: git add README.md
