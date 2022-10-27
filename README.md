@@ -21,4 +21,14 @@ see the list of connected repos: in vscode terminal -> git remote -v
 push: in vscode terminal -> git push --set-upstream origin main (this is done only for the first time and after that git push is enough)
 
 also: do as this link says to get rid of .ds_store -> https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository
+also: do as this link says to add autocomplete for git commads: https://www.macinstruct.com/tutorials/how-to-enable-git-tab-autocomplete-on-your-mac/
 
+to see the branches: in vscode terminal -> git branch
+to make a branch: in vscode terminal -> git checkout -b name_of_the_branch
+to go to a branch to another: in vscode terminal -> git checkout name_of_the_branch
+to findout the difference between branches: in vscode terminal -> git diff [name_of_branch] [] is for optional
+to add from new branch to github website: in vscode terminal -> git push --set-upstream origin name_of_branch
+?to get the chnages on your system: in vscode terminal -> git pull
+to delete a branch: in vscode terminal -> git branch -d name_of_branch
+?to add and commit at the same time git commit -am "something"
+?to merge branch from terminal: in vscode terminal -> git merge main
